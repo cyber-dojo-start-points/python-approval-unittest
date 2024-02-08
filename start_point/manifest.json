@@ -1,6 +1,6 @@
 {
-  "display_name": "Python 3.12, approval-unittest 10.2",
-  "image_name": "cyberdojofoundation/python_approval_unittest:3adcead",
+  "display_name": "Python 3.12, approval-unittest 10.3",
+  "image_name": "cyberdojofoundation/python_approval_unittest:080dff5",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
