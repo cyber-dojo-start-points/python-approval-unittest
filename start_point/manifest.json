@@ -1,6 +1,6 @@
 {
-  "display_name": "Python 3.14.3, unittest-approval 16.3.0",
-  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_unittest:66a1418",
+  "display_name": "Python 3.14.3, unittest-approval 17.1.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_unittest:83daa61",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
@@ -8,6 +8,7 @@
     "HikerTest.test_global.approved.txt",
     "HikerTest.test_instance.approved.txt"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".py",
     ".approved.txt",
