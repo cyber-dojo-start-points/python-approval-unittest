@@ -9,10 +9,10 @@ class HikerTest(unittest.TestCase):
     def setUp(self):
         set_default_reporter(ReportOnCyberDojo())
 
-    # if you want to change the expected result, 
+    # if you want to change the expected result,
     # move HikerTest.test_global.recieved.txt
     # to   HikerTest.test_global.approved.txt
-    # to view the differences, 
+    # to view the differences,
     # open HikerTest.test_global.diff
 
     def test_global(self):
@@ -24,5 +24,5 @@ class HikerTest(unittest.TestCase):
         verify(result)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     unittest.main()
