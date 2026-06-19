@@ -1,5 +1,13 @@
 {
   "display_name": "Python 3.14.3, unittest-approval 17.4.0",
+  "language": [
+    "Python",
+    "3.14.3"
+  ],
+  "test_framework": [
+    "unittest-approval",
+    "17.4.0"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/python_approval_unittest:e355f35",
   "visible_filenames": [
     "hiker.py",
