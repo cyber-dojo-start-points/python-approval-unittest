@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 45,
+  "match_counts": {
+    "^Ran 3 tests in ": 1,
+    "^OK$": 1,
+    "^TOTAL +[0-9]+ +0 +100%$": 1,
+    "approved_path check": 0
+  }
+}
