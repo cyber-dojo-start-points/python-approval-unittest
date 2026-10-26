@@ -1,14 +1,14 @@
 {
-  "display_name": "Python 3.15.0, unittest-approval 20.0.0",
+  "display_name": "Python 3.15.0, unittest-approval 20.0.1",
   "language": [
     "Python",
     "3.15.0"
   ],
   "test_framework": [
     "unittest-approval",
-    "20.0.0"
+    "20.0.1"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_unittest:1eda50c@sha256:46e89cf800382f7c3fb2dd21f322691afcd0a2796d5a1977ad83cb433c0ecc18",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_unittest:1eda50c@sha256:4b56cbdce334d45a0e5509224b182f27e995092b5351af4665b3e5e74aac7e98",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
